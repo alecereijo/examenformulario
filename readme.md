@@ -1,0 +1,1 @@
+introduje un formulario de seleccion variada, mediante radius creas una seleccion de circulo y con checbox creas seleccion de x el menu y el footer estan realizados mediante js 
