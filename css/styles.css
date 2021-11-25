@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+  html,
+  body {
+    height: 100%;
+    background-color: rgb(177, 130, 146);
+  }
+  
+  body {
+    color: #333;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+  
+  }
+  
+  main {
+    flex: 1 0 auto;
+  }
+
+li{
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+ul{ 
+    padding: 20px;
+    text-align: left;
+}
+
+h2{
+    text-align: left;
+    margin-top: 10px;
+}
+
+
+.frutas{
+    margin-top: 5px;
+}
